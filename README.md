@@ -6,4 +6,7 @@ IP_Project/
 ├── DefinitelyEnhance.py   # Smoothing
 ├── Edgy.py                # Edge detection
 ├── Featuring.py           # Sharpening
+├── Granuling.py           # Segmentation
+├── Histogramming.py       # Histogram Equalization
+├── InversionConversion.py # Invert, Rotate, Resize
 └── Jury_utils.py          # Utilities (if needed)
